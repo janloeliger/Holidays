@@ -31,9 +31,9 @@
 - **Historische Altstadt von Cheb:** Spaziergang, Fachwerkhäuser, Marktplatz mit "Stöckl" (gotische Häuserreihe)  
 - **Cheb Burg (Egerburg):** Eintritt ca. CHF 5-8, romanische Kapelle und Palas  
 - **Franzensbad (Františkovy Lázně):** Ca. 15 Min. Fahrt, Kurort mit Thermalquellen, Thermeneintritt ab ca. CHF 15-20  
-- **Sowjetisches Ehrenmal in Cheb:** Kurzer Fußweg, kostenlos  
+- **Sowjetisches Ehrenmal in Cheb:** Kurzer Fussweg, kostenlos  
 - **Burg Loket:** Ca. 1 Std. Fahrt, mittelalterliche Burg, Eintritt ca. CHF 10  
-- **Karlovy Vary (Karlsbad):** Ca. 50 Min. Autofahrt, berühmter Kurort mit heißen Quellen  
+- **Karlovy Vary (Karlsbad):** Ca. 50 Min. Autofahrt, berühmter Kurort mit heissen Quellen  
 - **Sowjetisches Ehrenmal in Karlovy Vary:** Ca. 50 Min. Autofahrt, sowjetisches Denkmal & Soldatenfriedhof, gepflegte Parkanlagen
 
 ## Sommeraktivitäten

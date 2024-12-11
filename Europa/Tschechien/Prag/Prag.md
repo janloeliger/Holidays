@@ -14,7 +14,7 @@
 ### Kulinarische Empfehlungen
 - Böhmische Küche (z. B. Gulasch, Knödel, Schweinebraten) in traditionellen Wirtshäusern  
 - Lokale Biere (Pilsener Urquell, Budvar)  
-- Süßes Gebäck (Trdelník) in der Altstadt
+- Süsses Gebäck (Trdelník) in der Altstadt
 
 ### Reisezeitempfehlung
 - **Frühling/Herbst:** Angenehme Temperaturen, weniger Touristen, ideal für historische Rundgänge  
@@ -27,7 +27,7 @@
 
 ## Historische Sehenswürdigkeiten
 - **Prager Burg (Pražský hrad):**  
-  Europas größtes Burgareal mit Veitsdom, Altem Königspalast, Goldenem Gässchen. Eintritt ab ca. CHF 10-15.
+  Europas grösstes Burgareal mit Veitsdom, Altem Königspalast, Goldenem Gässchen. Eintritt ab ca. CHF 10-15.
   
 - **Altstädter Ring & Rathausuhr (Staroměstské náměstí):**  
   Gotische Teynkirche, Astronomische Uhr, historisches Zentrum. Kostenlos zugänglich.
@@ -59,7 +59,7 @@
 
 ---
 
-# Fotos (Beispiele)
+# Fotos
 **Prag**\
 ![alt text](image-3.png)
 
