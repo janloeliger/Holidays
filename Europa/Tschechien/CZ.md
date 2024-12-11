@@ -2,7 +2,9 @@
 
 # Tschechien
 
-Liste mit Reisezielen innerhalb von Tschechien sortiert nach Region/Stadt.
+## Übersicht der Reiseziele
 
-- [Prag](Prag/Prag.md)
-- [Cheb (Eger)](Eger/Eger.md) - 6h Autofahrt
+| Reiseziel      | Fahrtzeit ab Effretikon | Highlights                                         | Details                          |
+|----------------|-------------------------|---------------------------------------------------|-----------------------------------|
+| **Prag**       | ca. 8 Std. mit dem Auto | Prager Burg, Karlsbrücke, historische Altstadt | [Mehr Infos](Prag/Prag.md)        |
+| **Cheb (Eger)**| ca. 6 Std. mit dem Auto | Historische Altstadt, Cheb Burg (Egerburg), Nähe zu Franzensbad (Thermen) | [Mehr Infos](Eger/Eger.md)        |
