@@ -33,13 +33,13 @@
 
 ## Sowjetische Denkmäler & Gedenkstätten
 - **Sowjetisches Ehrenmal in Cheb:**  \
-  Kurzer Fußweg, kostenlos zugänglich.
+  Kurzer Fussweg, kostenlos zugänglich.
 
 - **Burg Loket:** \
   Ca. 1 Std. Fahrt, mittelalterliche Burg, Eintritt ca. CHF 10  
 
 - **Karlovy Vary (Karlsbad):** \
-  Ca. 50 Min. Autofahrt, berühmter Kurort mit heißen Quellen, sowjetisches Ehrenmal & Soldatenfriedhof
+  Ca. 50 Min. Autofahrt, berühmter Kurort mit heissen Quellen, sowjetisches Ehrenmal & Soldatenfriedhof
 
 
 
