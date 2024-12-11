@@ -35,9 +35,12 @@
 - **Hofkirche & Kaiserliche Hofburgkapelle:**  
   Gotische Kirche mit Schwarzen Mander (Bronzestatuen), Eintritt ca. CHF 8-10.
 
-## Sowjetische Denkmäler & Gedenkstätten
-- Keine bekannten sowjetischen Ehrenmale in Innsbruck selbst.  
-  (Alternativ: Lokale Denkmäler erinnern eher an Tiroler Freiheitskämpfe und Habsburger Geschichte.)
+## Regionale Denkmäler & Gedenkstätten
+- **Andreas-Hofer-Denkmal:**  
+  Gewidmet dem Tiroler Freiheitskämpfer Andreas Hofer, der Anfang des 19. Jahrhunderts für die Unabhängigkeit Tirols kämpfte. Das Denkmal steht für den Stolz und die Identität der Region.
+
+- **Rudolfsbrunnen:**  
+  Ein historischer Brunnen auf dem Landhausplatz, errichtet zu Ehren von Erzherzog Rudolf. Er ist ein Beispiel für die lange Habsburger Tradition und Geschichte der Stadt.
 
 ## Andere Ausflüge
 - **Swarovski Kristallwelten (Wattens):**  
