@@ -4,8 +4,8 @@
 
 | Transport | Dauer | Kosten |
 |-----------|--------|---------|
-| Auto      | ca. 6 Std. (ca. 550 km via DE/AT) | Maut DE: keine / Maut CZ: ca. CHF 15 (10-Tage) |
-| Zug       | ca. 8-10 Std. | ca. CHF 80-100 |
+| Auto      | ca. 6 h (ca. 550 km via DE/AT) | Maut DE: keine / Maut CZ: ca. CHF 15 (10-Tage) |
+| Zug       | ca. 8-10 h | ca. CHF 80-100 |
 
 ### Unterkunftskosten
 - **Günstige Gasthäuser:** ab ca. CHF 40/Nacht  
@@ -36,7 +36,7 @@
   Kurzer Fussweg, kostenlos zugänglich.
 
 - **Burg Loket:** \
-  Ca. 1 Std. Fahrt, mittelalterliche Burg, Eintritt ca. CHF 10  
+  Ca. 1 h Fahrt, mittelalterliche Burg, Eintritt ca. CHF 10  
 
 - **Karlovy Vary (Karlsbad):** \
   Ca. 50 Min. Autofahrt, berühmter Kurort mit heissen Quellen, sowjetisches Ehrenmal & Soldatenfriedhof
@@ -66,7 +66,7 @@
 Von Cheb aus zur Burg Seeberg durch ländliche Gebiete und Dörfer.
 
 **Länge & Dauer:**  
-Ca. 6-8 km einfache Strecke, insgesamt 12-16 km Hin- und Rückweg. Dauer: 3-5 Std.
+Ca. 6-8 km einfache Strecke, insgesamt 12-16 km Hin- und Rückweg. Dauer: 3-5 h
 
 **Highlights:**  
 Historische Burg Seeberg, schöne Aussichten auf Westböhmen, Eintritt in die Burg möglich.
@@ -78,7 +78,7 @@ Historische Burg Seeberg, schöne Aussichten auf Westböhmen, Eintritt in die Bu
 Gut beschilderter Weg vom Stadtrand Chebs durch Wälder, Wiesen und Dörfer zum Stausee.
 
 **Länge & Dauer:**  
-Ca. 16-20 km gesamt, 4-6 Std. Gehzeit.
+Ca. 16-20 km gesamt, 4-6 h Gehzeit.
 
 **Highlights:**  
 Blick auf den See, Wasservögel, ruhige Waldwege.

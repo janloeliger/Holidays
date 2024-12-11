@@ -4,8 +4,8 @@
 
 | Transport | Dauer | Kosten |
 |-----------|--------|---------|
-| Auto      | ca. 7-8 Std. (ca. 700 km via DE/AT) | Maut AT: ca. CHF 10 (10-Tage), Maut CZ: ca. CHF 15 (10-Tage) |
-| Zug       | ca. 9-10 Std. | ca. CHF 90-120 |
+| Auto      | ca. 7-8 h (ca. 700 km via DE/AT) | Maut AT: ca. CHF 10 (10-Tage), Maut CZ: ca. CHF 15 (10-Tage) |
+| Zug       | ca. 9-10 h | ca. CHF 90-120 |
 
 ### Unterkunftskosten
 - **Günstige Hostels/Pensionen:** ab ca. CHF 40/Nacht  
@@ -46,7 +46,7 @@
   Ursprünglich für tschechoslowakische Legionäre, zeigt auch die Rolle der Roten Armee. Eintritt Museum ca. CHF 6-10.
 
 ## Andere Ausflüge
-- **Kutná Hora:** Ca. 1 Std. Fahrt, Knochenkirche Sedlec, gotische Kathedrale, Eintritt ca. CHF 10-15  
+- **Kutná Hora:** Ca. 1 h Fahrt, Knochenkirche Sedlec, gotische Kathedrale, Eintritt ca. CHF 10-15  
 - **Burg Karlštejn:** Ca. 45 Min. Fahrt, mittelalterliche Burg von Karl IV., Eintritt ca. CHF 10-15
 
 ## Sommeraktivitäten

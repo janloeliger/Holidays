@@ -4,8 +4,8 @@
 
 | Transport | Dauer | Kosten |
 |-----------|--------|---------|
-| Auto      | ca. X-X Std. (ca. XXX km via DE/AT) | Maut AT: ca. CHF 10 (10-Tage), Maut CZ: ca. CHF 15 (10-Tage) |
-| Zug       | ca. X-X Std. | ca. CHF XX-XXX |
+| Auto      | ca. X-X h (ca. XXX km via DE/AT) | Maut AT: ca. CHF 10 (10-Tage), Maut CZ: ca. CHF 15 (10-Tage) |
+| Zug       | ca. X-X h | ca. CHF XX-XXX |
 
 ### Unterkunftskosten
 - **Günstige Hostels/Pensionen:** ab ca. CHF XX/Nacht  
@@ -43,7 +43,7 @@
 
 ## Andere Ausflüge
 - **Ausflug:** \
-  Ca. 1 Std. Fahrt, XXXX, XXX Kathedrale, Eintritt ca. CHF 10-15  
+  Ca. 1 h Fahrt, XXXX, XXX Kathedrale, Eintritt ca. CHF 10-15  
 - **Ausflug Burg:** \
   Ca. 45 Min. Fahrt, mittelalterliche Burg von XXX., Eintritt ca. CHF 10-15
 - **...** \

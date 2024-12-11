@@ -4,8 +4,8 @@
 
 | Transport | Dauer | Kosten |
 |-----------|--------|---------|
-| Auto      | ca. 3,5 Std. (ca. 300 km via DE/AT) | Maut AT: ca. CHF 10 (10-Tage) |
-| Zug       | ca. 4-5 Std. | ca. CHF 50-80 |
+| Auto      | ca. 3,5 h (ca. 300 km via DE/AT) | Maut AT: ca. CHF 10 (10-Tage) |
+| Zug       | ca. 4-5 h | ca. CHF 50-80 |
 
 ### Unterkunftskosten
 - **Günstige Hostels/Pensionen:** ab ca. CHF 60/Nacht  
