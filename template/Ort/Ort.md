@@ -26,35 +26,42 @@
 # Aktivitäten
 
 ## Historische Sehenswürdigkeiten
-- **Burg:**  
+- **Burg:**  \
   Infos über Burg. Eintritt ab ca. CHF X-XX.
   
-- **Andere historische Sehenswürdigkeit:**  
+- **Andere historische Sehenswürdigkeit:**  \
   Infos und Eigenschaften. Kostenlos zugänglich.
 
-- **...**
+- **...** \
   
 
 ## Sowjetische Denkmäler (insofern es das hat) & Gedenkstätten 
-- **Sowjetisches Ehrenmal am XXX:**  
+- **Sowjetisches Ehrenmal am XXX:**  \
   Gedenkstätte für XXX. Kostenloser Zutritt.
 
-- **...:**
+- **...:** \
 
 ## Andere Ausflüge
-- **Ausflug:** Ca. 1 Std. Fahrt, XXXX, XXX Kathedrale, Eintritt ca. CHF 10-15  
-- **Ausflug Burg:** Ca. 45 Min. Fahrt, mittelalterliche Burg von XXX., Eintritt ca. CHF 10-15
-- **...**
+- **Ausflug:** \
+  Ca. 1 Std. Fahrt, XXXX, XXX Kathedrale, Eintritt ca. CHF 10-15  
+- **Ausflug Burg:** \
+  Ca. 45 Min. Fahrt, mittelalterliche Burg von XXX., Eintritt ca. CHF 10-15
+- **...** \
 
 ## Sommeraktivitäten
-- **Bootstour auf XXX:** ab ca. CHF XXX  
-- **Fahrradtour entlang XXX:** Mietrad ab ca. CHF 15/Tag  
-- **Aktivität:** Infos ...
+- **Bootstour auf XXX:** \
+  ab ca. CHF XXX  
+- **Fahrradtour entlang XXX:** \
+  Mietrad ab ca. CHF 15/Tag  
+- **Aktivität:** \
+  Infos ...
 
 ## Winteraktivitäten
-- **Weihnachtsmarkt am XXX:** Kostenloser Zutritt, weitere Infos  
-- **Museum XXX:** Eintritt ca. CHF 8-20
-- **...**
+- **Weihnachtsmarkt am XXX:** \
+  Kostenloser Zutritt, weitere Infos  
+- **Museum XXX:** \
+  Eintritt ca. CHF 8-20
+- **...** \
 
 ## Wanderungen in der Region
 
@@ -67,6 +74,8 @@ Ca. X-X km XXX Strecke, insgesamt rund XX-XX km Hin- und Rückweg. Dauer: X-X St
 
 **Highlights:**  
 Historische Burg , schöne Ausblicke auf die Landschaft XXX. ...
+
+**Weitere Infos:** [Wanderung](weblink ins HikeRepo)
 
 ![kleines Foto](Foto.png)
 
