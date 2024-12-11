@@ -8,7 +8,7 @@
 | Zug       | ca. 8-10 Std. | ca. CHF 80-100 |
 
 
-### Unterkunftskosten (3-5 Tage)
+### Unterkunftskosten
 - **Günstige Gasthäuser:** ab ca. CHF 40/Nacht  
 - **Mittelklasse-Hotels:** ab ca. CHF 60/Nacht
 
