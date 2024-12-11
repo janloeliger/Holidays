@@ -13,5 +13,5 @@ Liste mit Reisezielen sortiert nach Ländern.
 ## Hinweise
 
 - **Fahrzeiten**: Alle angegebenen Reisezeiten sind Richtwerte, berechnet ab Effretikon (CH/ZH).
-- **Aktivitäten & Saison**: In den Unterseiten finden Sie ganzjährige Highlights, saisonale Feste, Wanderwege sowie kulturell-historische Sehenswürdigkeiten, mit besonderem Schwerpunkt auf historische und sowjetische Denkmäler.
+- **Aktivitäten & Saison**: In den Unterseiten befinden sich ganzjährige Highlights, saisonale Feste, Wanderwege sowie kulturell-historische Sehenswürdigkeiten, mit besonderem Schwerpunkt auf historische Denkmäler.
 
