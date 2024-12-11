@@ -60,17 +60,17 @@
 ---
 
 # Fotos (Beispiele)
-**Prag**
+**Prag**\
 ![alt text](image-3.png)
 
-**Prager Burg und Karlsbrücke**
+**Prager Burg und Karlsbrücke**\
 ![Prager Burg und Karlsbrücke](image-1.png)
 
-**Prager Burg**
-![alt text](image-2.png)
-
-**Vyšehrad**\
+**Prager Burg**\
 ![alt text](image-4.png)
 
-**Kutná Hora**
+**Vyšehrad**\
+![alt text](image-2.png)
+
+**Kutná Hora**\
 ![alt text](image-5.png)
