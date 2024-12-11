@@ -7,7 +7,7 @@
 | Auto      | ca. X-X Std. (ca. XXX km via DE/AT) | Maut AT: ca. CHF 10 (10-Tage), Maut CZ: ca. CHF 15 (10-Tage) |
 | Zug       | ca. X-X Std. | ca. CHF XX-XXX |
 
-### Unterkunftskosten (3-5 Tage)
+### Unterkunftskosten
 - **Günstige Hostels/Pensionen:** ab ca. CHF XX/Nacht  
 - **Mittelklasse-Hotels:** ab ca. CHF XX/Nacht
 
