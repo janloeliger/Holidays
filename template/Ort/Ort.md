@@ -1,6 +1,6 @@
 [zurück](../Land.md)
 
-# Prag
+# Ort
 
 | Transport | Dauer | Kosten |
 |-----------|--------|---------|
