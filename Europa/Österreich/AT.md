@@ -5,5 +5,5 @@
 
 | Reiseziel      | Fahrtzeit ab Effretikon | Highlights                                         | Details                          |
 |----------------|-------------------------|---------------------------------------------------|-----------------------------------|
-| **Wien**       | ca. 8h mit dem Auto | Historische Altstadt, Bergpanorama, Hofkirche & Kaiserliche Hofburgkapelle | [Mehr Infos](Innsbruck/Innsbruck.md)        |
-| **Innsbruck**| ca. 4h mit dem Auto | Eigenschaften, Orte, Denkmäler, Burgen | [Mehr Infos](Wien/Wien.md)        |
+| **Innsbruck**       | ca. 8h mit dem Auto | Historische Altstadt, Bergpanorama, Hofkirche & Kaiserliche Hofburgkapelle | [Mehr Infos](Innsbruck/Innsbruck.md)        |
+| **Wien**| ca. 4h mit dem Auto | Eigenschaften, Orte, Denkmäler, Burgen | [Mehr Infos](Wien/Wien.md)        |
